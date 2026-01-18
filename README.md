@@ -19,6 +19,11 @@ This project is an Arduino-based robot that follows a black line using IR sensor
 - If no obstacle is detected, the robot follows the line.
 - If an obstacle is detected, the ultrasonic mode is activated to avoid collisions.
 
+## Picture
+
+<img width="316" height="423" alt="Screenshot 2025-05-01 124953" src="https://github.com/user-attachments/assets/759d0a5e-d4d3-4ec9-9aaa-b122c815132d" />
+
+
 ## Setup
 1. Upload the `.ino` file to the Arduino.
 2. Connect the sensors and motors according to the code.
